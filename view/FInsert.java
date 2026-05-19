@@ -1,17 +1,10 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JInternalFrame.java to edit this template
- */
+
 package view;
 
 import model.Produto;
 import persistence.ConnectionFactory;
 import persistence.JDBCProduto;
 
-/**
- *
- * @author Lenovo
- */
 public class FInsert extends javax.swing.JInternalFrame {
 
     /**
